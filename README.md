@@ -1,25 +1,20 @@
-[![-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories)
-
-
 # Loan Status Prediction
 Machine Learning Project
 
 [![-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories)
 
+This project aims to predict loan status based on various features using machine learning techniques. Loan status prediction is a crucial task in financial institutions to assess the risk associated with granting loans to individuals or businesses. By analyzing historical data, this application predicts whether a loan applicant will fully pay off the loan or default.
+
+[![-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories)
+
+
 ## Table of Contents
 
-- [Introduction](#introduction)
 - [Data Preprocessing](#data-preprocessing)
 - [Exploratory Data Analysis](#exploratory-data-analysis)
 - [Model Building](#model-building)
 - [Model Evaluation](#model-evaluation)
 - [Technologies Used](#technologies-used)
-
----
-
-## Introduction
-
-This project aims to predict loan status based on various features using machine learning techniques. Loan status prediction is a crucial task in financial institutions to assess the risk associated with granting loans to individuals or businesses. By analyzing historical data, this application predicts whether a loan applicant will fully pay off the loan or default.
 
 ---
 
