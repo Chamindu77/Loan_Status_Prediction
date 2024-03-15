@@ -18,8 +18,7 @@ Machine Learning Project
 
 This project aims to predict loan status based on various features using machine learning techniques. Loan status prediction is a crucial task in financial institutions to assess the risk associated with granting loans to individuals or businesses. By analyzing historical data, this application predicts whether a loan applicant will fully pay off the loan or default.
 
-[![-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories)
-
+---
 
 ## Data Preprocessing
 
@@ -29,8 +28,7 @@ The data preprocessing phase involves handling missing values, dropping irreleva
 - Handling missing values in 'Credit Score' and 'Annual Income' columns.
 - Encoding categorical variables using one-hot encoding.
 
-[![-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories)
-
+---
 
 ## Exploratory Data Analysis
 
@@ -40,8 +38,7 @@ Exploratory data analysis (EDA) provides insights into the relationships between
 - Correlation analysis to identify least contributing features.
 - Scatter plots to visualize the relationship between features and loan status.
 
-[![-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories)
-
+---
 
 ## Model Building
 
@@ -59,8 +56,7 @@ Two machine learning models are built for loan status prediction:
 - Feature scaling using StandardScaler.
 - Grid search for hyperparameter tuning.
 
-[![-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories)
-
+---
 
 ## Model Evaluation
 
@@ -71,8 +67,7 @@ Model evaluation is performed using various metrics including accuracy, confusio
 - ROC curve and AUC score.
 - Precision-recall curve.
 
-[![-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories)
-
+---
 
 ## Technologies Used
 
