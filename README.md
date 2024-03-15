@@ -77,4 +77,3 @@ Model evaluation is performed using various metrics including accuracy, confusio
 - **Python**
 - **Libraries:** NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn
 
-[![-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories)
