@@ -1,3 +1,6 @@
+[![-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories)
+
+
 # Loan_Status_Prediction
 Machine Learning Project
 
@@ -12,7 +15,7 @@ Machine Learning Project
 - [Model Evaluation](#model-evaluation)
 - [Technologies Used](#technologies-used)
 
-[![-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories)
+---
 
 ## Introduction
 
